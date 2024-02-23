@@ -1,0 +1,12 @@
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\bin\Debug\net6.0\PilasColas.Logic.deps.json
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\bin\Debug\net6.0\PilasColas.Logic.dll
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\bin\Debug\net6.0\PilasColas.Logic.pdb
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\PilasColas.Logic.csproj.AssemblyReference.cache
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\PilasColas.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\PilasColas.Logic.AssemblyInfoInputs.cache
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\PilasColas.Logic.AssemblyInfo.cs
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\PilasColas.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\PilasColas.Logic.dll
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\refint\PilasColas.Logic.dll
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\PilasColas.Logic.pdb
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\PilasColas\PilasColas.Logic\obj\Debug\net6.0\ref\PilasColas.Logic.dll
